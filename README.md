@@ -1,2 +1,2 @@
 # Musical-Warfare
-game with musicians battling.
+A Game with Musicians Battling.
